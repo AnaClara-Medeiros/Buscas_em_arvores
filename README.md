@@ -1,5 +1,5 @@
 # Percurso_em_arvores
-Implementação de percursos em árvore com os métodos BFS e DFS.
+Implementação de percursos em árvore menor caminho, métodos BFS, DFS e mais.
 
 - DFS (Depth-First Search) 
     A busca em profundidade, pode ser implementada pela pilha (LIFO - last in first out) percorrendo até a profundidade do nó.
